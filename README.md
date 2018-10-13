@@ -1,5 +1,5 @@
 # CountSystem
-Software home,which can Realizing the four arithmetic operations of elementary school mathematics
+Software persionl homework,which can Realizing the four arithmetic operations of elementary school mathematics
 
 个人项目
 一个小软件，实现四则运算（《构建之法》中开篇的题目）
